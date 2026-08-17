@@ -24,6 +24,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-6300FF?style=for-the-badge&logo=avaloniaui&logoColor=white)
 
 ---
 
