@@ -11,9 +11,19 @@
 
 ### 🛠️ Skills & Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,cs,dotnet,nextjs,react,tailwind,vite,bun,sqlite,docker,git,bash,linux,arch,neovim" height="40" />
-</p>
+**Languages**
+ 
+<img src="https://skillicons.dev/icons?i=ts,js,py,cs,bash" />
+**Frameworks & runtimes**
+ 
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,bun,dotnet" />
+**Data & infrastructure**
+ 
+<img src="https://skillicons.dev/icons?i=sqlite,docker,cloudflare,linux" />
+**Tools**
+ 
+<img src="https://skillicons.dev/icons?i=git,github,arch,neovim" />
+
 
 ---
 
