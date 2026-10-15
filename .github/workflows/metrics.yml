@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 0 * * *'   # once a day
   workflow_dispatch:       # run manually from the Actions tab
+  push:
+    branches:
+      - main               # run on every commit to main
 
 jobs:
   github-metrics:
