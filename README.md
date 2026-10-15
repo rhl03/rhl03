@@ -37,7 +37,7 @@ Tools
 
 ### 📊 Most used languages
 
-<img src="metrics.languages.svg" width="100%" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhl03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 ### 👾 Contributions
 
