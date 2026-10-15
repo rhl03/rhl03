@@ -1,5 +1,4 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Roan</h1>
----
 
 💼 **Developer intern**, building software every day  
 🎓 Finished a one-year programming course at **Kodehode Bergen**  
