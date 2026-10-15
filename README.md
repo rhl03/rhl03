@@ -37,8 +37,10 @@ Tools
 
 ### 👾 Contributions
 
+### 👾 Contributions
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhl03/rhl03/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhl03/rhl03/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/rhl03/rhl03/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhl03/rhl03/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhl03/rhl03/output/galaga-contribution-graph.svg">
+  <img alt="Galaga ship shooting down my contribution graph" src="https://raw.githubusercontent.com/rhl03/rhl03/output/galaga-contribution-graph.svg">
 </picture>
