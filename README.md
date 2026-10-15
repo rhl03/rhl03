@@ -1,39 +1,30 @@
-# Hi 👋, I'm Roan
+![rhl03 hero](https://coolreadme.xyz/api/hero-banner?user=rhl03&title=Roan&subtitle=Junior%20Backend%20Developer%20%C2%B7%20C%23%20%26%20.NET%20%C2%B7%20Bergen&theme=dark)
 
-### Junior Backend Developer | IT Operations | Bergen, Norway
+### About
 
----
+Junior backend developer in training, focused on C# and .NET. Certified IT Operations technician with apprenticeship experience from Norway and Germany. I run a Proxmox homelab with self-hosted services and live on Arch + Hyprland + Neovim.
 
-🎓 Junior Backend Developer in training, focused on **C# & .NET**  
-🔧 Certified **IT Operations Technician**  
-🌍 IT apprentice experience from **Germany** and **Norway**  
-🏠 Self-hosting & homelab enthusiast, running services on **Proxmox**  
-💬 **Norwegian** · **German** · **English**
+### Stack
 
----
+![Skill icons](https://skillicons.dev/icons?i=cs,dotnet,py,ts,js,nextjs,react,tailwind,vite,bun,sqlite,mysql,docker,linux,arch,bash,neovim,git,github,cloudflare&perline=10&theme=dark)
 
-### 🛠️ Skills & Technologies
+### Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,bash,linux,arch,docker,neovim" height="40" />
+<p>
+  <a href="https://github.com/rhl03/media-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhl03&repo=media-tracker&theme=dark&hide_border=true" alt="Media Tracker" width="49%">
+  </a>
+  <a href="https://github.com/rhl03/blackbox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhl03&repo=blackbox&theme=dark&hide_border=true" alt="BlackBox" width="49%">
+  </a>
 </p>
 
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-6300FF?style=for-the-badge&logo=avaloniaui&logoColor=white)
+### Stats
 
----
+![rhl03 GitHub stats](https://coolreadme.xyz/api/stats-card?user=rhl03&theme=dark)
 
-### 📌 Featured Projects
+### Activity
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [Runbook](https://github.com/hro1025/Runbook) | Terminal TUI script manager with live output streaming | C#, .NET, Terminal.Gui |
-| HomeLab | Self-hosted services on Proxmox — Pi-hole, Filebrowser, FiveM, Cloudflare Tunnel | Proxmox, Linux, Cloudflare |
-| LFS | Built a complete Linux system from source code during IT apprenticeship in Germany | Linux, GCC, Bash |
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rhl03&theme=github_dark)
 
-
+<sub>Built with [coolreadme.xyz](https://coolreadme.xyz/u/rhl03) — one-click GitHub README cards.</sub>
