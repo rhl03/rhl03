@@ -24,6 +24,9 @@ Tools
  
 <img src="https://skillicons.dev/icons?i=git,github,arch,neovim" />
 
+### 📊 Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhl03&layout=compact&langs_count=8&card_width=840&hide_title=true&hide_border=true&theme=tokyonight&bg_color=00000000&text_color=c0caf5" width="100%" alt="Most used languages" />
 
 ---
 
@@ -34,10 +37,6 @@ Tools
 | [Media Tracker](https://github.com/rhl03/media-tracker) | Mobile app to track manhwa, manga, anime, movies and series in one place | TypeScript, React Native, SQLite |
 | [BlackBox](https://github.com/rhl03/blackbox) | A black box for my system: monitoring and recording what happens on the machine | TypeScript, Bun |
 | [Runbook](https://github.com/rhl03/Runbook) | Terminal TUI script manager with live output streaming | C#, .NET, Terminal.Gui |
-
-### 📊 Most used languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhl03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 ### 👾 Contributions
 
