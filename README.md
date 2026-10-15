@@ -37,8 +37,6 @@ Tools
 
 ### 👾 Contributions
 
-### 👾 Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhl03/rhl03/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhl03/rhl03/output/galaga-contribution-graph.svg">
