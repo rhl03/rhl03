@@ -19,7 +19,7 @@ Frameworks & runtimes
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bun,dotnet" />
 Data & infrastructure
  
-<img src="https://skillicons.dev/icons?i=sqlite,docker,cloudflare,linux" />
+<img src="https://skillicons.dev/icons?i=sqlite,docker,cloudflare,linux,proxmox" />
 Tools
  
 <img src="https://skillicons.dev/icons?i=git,github,arch,neovim" />
