@@ -1,7 +1,4 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Roan</h1>
-
-### Developer intern with a background in IT operations
-
 ---
 
 💼 **Developer intern**, building software every day  
