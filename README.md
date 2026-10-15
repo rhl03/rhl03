@@ -34,3 +34,11 @@ Tools
 | [Media Tracker](https://github.com/rhl03/media-tracker) | Mobile app to track manhwa, manga, anime, movies and series in one place | TypeScript, React Native, SQLite |
 | [BlackBox](https://github.com/rhl03/blackbox) | A black box for my system: monitoring and recording what happens on the machine | TypeScript, Bun |
 | [Runbook](https://github.com/rhl03/Runbook) | Terminal TUI script manager with live output streaming | C#, .NET, Terminal.Gui |
+
+### 👾 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhl03/rhl03/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhl03/rhl03/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/rhl03/rhl03/output/pacman-contribution-graph.svg">
+</picture>
