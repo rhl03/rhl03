@@ -11,16 +11,16 @@
 
 ### 🛠️ Skills & Technologies
 
-**Languages**
+Languages
  
 <img src="https://skillicons.dev/icons?i=ts,js,py,cs,bash" />
-**Frameworks & runtimes**
+Frameworks & runtimes
  
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,bun,dotnet" />
-**Data & infrastructure**
+Data & infrastructure
  
 <img src="https://skillicons.dev/icons?i=sqlite,docker,cloudflare,linux" />
-**Tools**
+Tools
  
 <img src="https://skillicons.dev/icons?i=git,github,arch,neovim" />
 
