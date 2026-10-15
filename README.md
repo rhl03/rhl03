@@ -24,9 +24,6 @@ Tools
  
 <img src="https://skillicons.dev/icons?i=git,github,arch,neovim" />
 
-### 📊 Most used languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhl03&layout=compact&langs_count=8&card_width=840&hide_title=true&hide_border=true&theme=tokyonight&bg_color=00000000&text_color=c0caf5" width="100%" alt="Most used languages" />
 
 ---
 
