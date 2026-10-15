@@ -35,6 +35,8 @@ Tools
 | [BlackBox](https://github.com/rhl03/blackbox) | A black box for my system: monitoring and recording what happens on the machine | TypeScript, Bun |
 | [Runbook](https://github.com/rhl03/Runbook) | Terminal TUI script manager with live output streaming | C#, .NET, Terminal.Gui |
 
+### 📊 Most used languages
+
 <img src="metrics.languages.svg" width="100%" alt="Most used languages" />
 
 ### 👾 Contributions
