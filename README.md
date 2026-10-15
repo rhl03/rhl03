@@ -1,6 +1,5 @@
-![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
-
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Roan</h1>
+<a href="https://github.com/rhl03"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=7AA2F7&vCenter=true&width=520&lines=%24+whoami+%E2%86%92+roan;developer+intern+%C2%B7+IT+ops+background;building+media-tracker+%C2%B7+blackbox;arch+%2B+hyprland+%2B+neovim" alt="Typing intro" /></a>
 
 💼 **Developer intern**, building software every day  
 🎓 Finished a one-year programming course at **Kodehode Bergen**  
