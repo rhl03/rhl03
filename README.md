@@ -1,5 +1,5 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Roan</h1>
-<a href="https://github.com/rhl03"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=7AA2F7&vCenter=true&width=520&lines=%24+whoami+%E2%86%92+roan;developer+intern+%C2%B7+IT+ops+background;arch+%2B+hyprland+%2B+neovim" alt="Typing intro" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=900&color=7AA2F7&vCenter=true&width=520&lines=developer+intern+%C2%B7+IT+ops+background;built+linux+from+scratch+(LFS);self-hosting+on+proxmox;speaks+norsk+%C2%B7+deutsch+%C2%B7+english;arch+%2B+hyprland+%2B+neovim" alt="developer intern · built linux from scratch (LFS) · self-hosting on proxmox · speaks norsk, deutsch, english · arch + hyprland + neovim" />
 
 💼 **Developer intern**, building software every day  
 🎓 Finished a one-year programming course at **Kodehode Bergen**  
