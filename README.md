@@ -16,7 +16,7 @@ Languages
 <img src="https://skillicons.dev/icons?i=ts,js,py,cs,bash" />
 Frameworks & runtimes
  
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,vite,bun,dotnet" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bun,dotnet" />
 Data & infrastructure
  
 <img src="https://skillicons.dev/icons?i=sqlite,docker,cloudflare,linux" />
@@ -31,7 +31,6 @@ Tools
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Media Tracker](https://github.com/rhl03/media-tracker) | Track manhwa, manga, anime, movies and series in one place | TypeScript, Vite |
+| [Media Tracker](https://github.com/rhl03/media-tracker) | Mobile app to track manhwa, manga, anime, movies and series in one place | TypeScript, React Native, SQLite |
 | [BlackBox](https://github.com/rhl03/blackbox) | A black box for my system: monitoring and recording what happens on the machine | TypeScript, Bun |
 | [Runbook](https://github.com/rhl03/Runbook) | Terminal TUI script manager with live output streaming | C#, .NET, Terminal.Gui |
-
