@@ -1,18 +1,37 @@
-### Hei, I'm Roan 👋
+# Hi 👋, I'm Roan
 
-Developer intern from Bergen, Norway. IT operations background, apprenticeships in Norway and Germany.
+### Junior Backend Developer | IT Operations | Bergen, Norway
 
-**Building:** [Media Tracker](https://github.com/rhl03/media-tracker) · [BlackBox](https://github.com/rhl03/blackbox)<br>
-**Using:** TypeScript · Python · Next.js · Bun · SQLite · Docker · Linux · Proxmox<br>
-**Setup:** Arch · Hyprland · Neovim
+---
 
-<sub>Norwegian · German · English</sub>
+🎓 Junior Backend Developer in training, focused on **C# & .NET**  
+🔧 Certified **IT Operations Technician**  
+🌍 IT apprentice experience from **Germany** and **Norway**  
+🏠 Self-hosting & homelab enthusiast, running services on **Proxmox**  
+💬 **Norwegian** · **German** · **English**
 
-## Right now
+---
 
-- 🎓 Learning **C# & .NET** at Kodehode Bergen
-- 📺 Building **Media Tracker** to learn TypeScript and Vite
-- 🗃️ Building **BlackBox**, a system black box in TypeScript on Bun
-- 🏠 Running a **Proxmox homelab** with self-hosted services behind Cloudflare Tunnel
-- 🐧 Daily-driving **Arch + Hyprland + Neovim**
-- 💬 Speaking Norwegian, German and English
+### 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,bash,linux,arch,docker,neovim" height="40" />
+</p>
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pihole&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-6300FF?style=for-the-badge&logo=avaloniaui&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Runbook](https://github.com/hro1025/Runbook) | Terminal TUI script manager with live output streaming | C#, .NET, Terminal.Gui |
+| HomeLab | Self-hosted services on Proxmox — Pi-hole, Filebrowser, FiveM, Cloudflare Tunnel | Proxmox, Linux, Cloudflare |
+| LFS | Built a complete Linux system from source code during IT apprenticeship in Germany | Linux, GCC, Bash |
