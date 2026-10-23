@@ -13,7 +13,7 @@
 
 Languages
  
-<img src="https://skillicons.dev/icons?i=ts,js,py,cs,bash" />
+<img src="https://skillicons.dev/icons?i=ts,react,py,cs,bash" />
 Frameworks & runtimes
  
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bun,dotnet" />
