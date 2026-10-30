@@ -13,7 +13,7 @@
 
 Languages
  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,py,cs,rust,bash&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,py,cs,rust,bash,html,css&theme=dark" />
 
 Frameworks & runtimes
  
@@ -21,13 +21,21 @@ Frameworks & runtimes
 
 Data & infrastructure
  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,docker,cloudflare,linux,proxmox,systemd&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,docker,cloudflare,linux,proxmox,systemd,tailscale&theme=dark" />
 
 Tools
  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,arch,hyprland,neovim&theme=dark" />
 
 ---
+
+## 📬 Contact
+
+<a href="mailto:hro1025@gmail.com">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
+</a>
+
+📧 [hro1025@gmail.com](mailto:hro1025@gmail.com)
 
 ### 📌 Featured Projects
 
