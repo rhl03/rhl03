@@ -13,17 +13,19 @@
 
 Languages
  
-<img src="https://skillicons.dev/icons?i=ts,py,cs,bash" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,py,cs,rust,bash&theme=dark" />
+
 Frameworks & runtimes
  
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bun,dotnet" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expo,nextjs,tailwind,bun,dotnet,django,qt&theme=dark" />
+
 Data & infrastructure
  
-<img src="https://skillicons.dev/icons?i=sqlite,docker,cloudflare,linux,proxmox" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite,docker,cloudflare,linux,proxmox,systemd&theme=dark" />
+
 Tools
  
-<img src="https://skillicons.dev/icons?i=git,github,arch,neovim" />
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,,arch,hyprland,neovim&theme=dark" />
 
 ---
 
