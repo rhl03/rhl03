@@ -17,7 +17,7 @@ Languages
 
 Frameworks & runtimes
  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,nextjs,tailwind,bun,dotnet,django&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,nextjs,tailwind,bun,npm,dotnet,django&theme=dark" />
 
 Data & infrastructure
  
