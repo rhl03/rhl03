@@ -13,11 +13,11 @@
 
 Languages
  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,js,py,cs,rust,bash&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,py,cs,rust,bash&theme=dark" />
 
 Frameworks & runtimes
  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,expo,nextjs,tailwind,bun,dotnet,django,qt&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,nextjs,tailwind,bun,dotnet,django,qt&theme=dark" />
 
 Data & infrastructure
  
@@ -25,7 +25,7 @@ Data & infrastructure
 
 Tools
  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,,arch,hyprland,neovim&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,arch,hyprland,neovim&theme=dark" />
 
 ---
 
