@@ -29,13 +29,6 @@ Tools
 
 ---
 
-## 📬 Contact
-
-<a href="mailto:hro1025@gmail.com">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" />
-</a>
-
-📧 [hro1025@gmail.com](mailto:hro1025@gmail.com)
 
 ### 📌 Featured Projects
 
