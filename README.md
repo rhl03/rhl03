@@ -13,7 +13,7 @@
 
 Languages
  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,py,cs,rust,bash,html,css&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,py,cs,bash,html,css&theme=dark" />
 
 Frameworks & runtimes
  
